@@ -15,6 +15,3 @@ Computer Science student
 Socials
 
 <p align="left"> <a href="https://www.github.com/phumipatsrisu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-Badges
-
-<a href="https://github.com/phumipatsrisu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phumipatsrisu&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ec4899&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
